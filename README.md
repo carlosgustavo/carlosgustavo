@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Carlos Gustavo 👨🏻‍💻 
-<h3 Front End Developer • React 👨‍🎓️Graduated in Computer Science </h3>
+<h3 align="center">Front End Developer • React 👨‍🎓️Graduated in Computer Science </h3>
 <!--
 **carlosgustavo/carlosgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
