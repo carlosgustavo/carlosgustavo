@@ -5,7 +5,7 @@
 - HTML . CSS . Sass
 - Javascript . React.js . Redux 
 - Git . Figma . Trello
-
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
