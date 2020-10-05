@@ -14,7 +14,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="postgresql" width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="postgresql" width="40"  height="40" />
-  <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="postgresql" width="40"  height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="40"  height="40" />
 
 </p>
 - 🔭 I’m currently working on ...
@@ -26,4 +26,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg
+
