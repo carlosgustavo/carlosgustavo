@@ -13,9 +13,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40"  height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="postgresql" width="40"  height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="postgresql" width="40"  height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="postgresql" width="50"  height="50" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="40"  height="40" />
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="postgresql" width="40"  height="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="postgresql" width="40"  height="40" />
 </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
