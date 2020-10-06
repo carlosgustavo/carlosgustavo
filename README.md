@@ -1,10 +1,10 @@
 <h2 align="center">Hi there, I'm Carlos Gustavo 👨🏻‍💻 
 <h3 align="center">Front End Developer React.js ⚡Graduated in Computer Science 👨‍🎓️ </h3>
-  
-### Skills 💻
-✅️ HTML . CSS . Sass
-- Javascript . React.js . Redux 
-- Git . Figma . Trello
+
+### Skills 📝️
+✔️ HTML . CSS . Sass
+✔️ Javascript . React.js . Redux 
+✔️ Git . Figma . Trello
  ### Technologies and Tools
  <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40"  height="40" />
