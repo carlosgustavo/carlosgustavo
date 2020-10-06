@@ -1,8 +1,8 @@
 <h2 align="center">Hi there, I'm Carlos Gustavo 👨🏻‍💻 
 <h3 align="center">Front End Developer React.js 🔹️Graduated in Computer Science 👨‍🎓️ </h3>
-
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/carlos-gustavo-a71757190/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
+</p>
 ### Skills 📝️
 ✔️ HTML . CSS . Sass <br/>
 ✔️ Javascript . React.js . Redux  <br/>
