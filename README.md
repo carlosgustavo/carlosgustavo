@@ -1,14 +1,8 @@
 <h2 align="center">Hi there, I'm Carlos Gustavo 👨🏻‍💻 
 <h3 align="center">Front End Developer React.js 🔹️Graduated in Computer Science 👨‍🎓️ </h3>
-  
-<p align="center"> 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a  href="https://discord.gg/VK4k3Br">
-  <img  alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-  </p>
+
+<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+
 ### Skills 📝️
 ✔️ HTML . CSS . Sass <br/>
 ✔️ Javascript . React.js . Redux  <br/>
