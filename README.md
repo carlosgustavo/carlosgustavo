@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="postgresql" width="40"  height="40" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="postgresql" width="40"  height="40" />
 </p>
+<h3 align="left">Social Networks</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-gustavo-a71757190/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
  <a href="https://www.instagram.com/carlosgustavo.br/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
