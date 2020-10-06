@@ -6,6 +6,7 @@
 ✔️ Javascript . React.js . Redux  <br/>
 ✔️ Git . Figma . Trello <br/>
 </p>
+
  ### Technologies and Tools
  <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40"  height="40" />
