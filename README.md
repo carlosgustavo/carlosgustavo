@@ -1,9 +1,6 @@
 <h2 align="center">Hi there, I'm Carlos Gustavo 👨🏻‍💻 
 <h3 align="center">Front End Developer React.js 🔹️Graduated in Computer Science 👨‍🎓️ </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/carlos-gustavo-a71757190/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
- <a href="https://www.instagram.com/carlosgustavo.br/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
-</p>
+
 ### Skills 📝️
 ✔️ HTML . CSS . Sass <br/>
 ✔️ Javascript . React.js . Redux  <br/>
@@ -20,6 +17,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="postgresql" width="40"  height="40" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="postgresql" width="40"  height="40" />
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/carlos-gustavo-a71757190/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
+ <a href="https://www.instagram.com/carlosgustavo.br/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
 </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
