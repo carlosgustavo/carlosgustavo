@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer React.js ⚡Graduated in Computer Science 👨‍🎓️ </h3>
   
 ### Skills 💻
-- HTML . CSS . Sass
+✅️ HTML . CSS . Sass
 - Javascript . React.js . Redux 
 - Git . Figma . Trello
  ### Technologies and Tools
