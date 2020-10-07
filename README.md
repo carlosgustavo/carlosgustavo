@@ -3,7 +3,7 @@
 
 ### Skills 📝️
 ✔️ HTML . CSS . Sass <br/>
-✔️ Javascript . React.js . Redux  <br/>
+✔️ Java Script . React.js . Redux  <br/>
 ✔️ Git . Figma . Trello <br/>
 </p>
 
