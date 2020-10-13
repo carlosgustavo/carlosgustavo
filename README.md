@@ -4,7 +4,7 @@
 ### Skills 📝️
 ✔️ HTML . CSS . Sass <br/>
 ✔️ Java Script . React.js . Redux  <br/>
-✔️ Git . Figma . Trello <br/>
+✔️ Git . Scrum . Figma . Trello <br/>
 </p>
 
  ### Technologies and Tools
