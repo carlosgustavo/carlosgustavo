@@ -3,9 +3,9 @@
 
 ### Skills 📝️
 ✔️ Html CSS (Sass, Less, Bootstrap, Materialize) <br/>
-✔️ Java Script . React.js . Redux  <br/>
-✔️ Git (Git Flow, GitHub)
-✔️ Scrum . Trello . Figma <br/>
+✔️ JavaScript (React.js, Redux,Context API, Hooks)  <br/>
+✔️ Git (Git Flow, GitHub) <br/>
+✔️ Scrum Insomnia Trello Figma <br/>
 </p>
 
  ### Technologies and Tools
