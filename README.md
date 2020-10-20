@@ -5,7 +5,7 @@
 ✔️ Html CSS (Sass, Material UI, Bootstrap, Styled-Components ) <br/>
 ✔️ JavaScript (React.js, Redux, Context API, Hooks)  <br/>
 ✔️ Git (Git Flow, GitHub) <br/>
-✔️ Scrum . Insomnia . Trello . Figma <br/>
+✔️ Scrum . Insomnia . Trello Figma <br/>
 </p>
 
  ### Technologies and Tools
