@@ -23,7 +23,6 @@
  </p>
  <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="30"  height="30" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/yarn/yarn-original.svg" alt="yarn" width="30"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30"  height="30" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"  height="30" />
 </p>
