@@ -14,12 +14,12 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="Mongo" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30"  height="30" />
   </p>
   <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30"  height="30" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30"  height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="30"  height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30"  height="30" />
  </p>
  <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"  height="30" />
