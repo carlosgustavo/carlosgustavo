@@ -22,9 +22,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30"  height="30" />
  </p>
  <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="30"  height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"  height="30" />
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="30"  height="30" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30"  height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30"  height="30" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"  height="30" />
 </p>
 <h5 align="left">Social Networks</h5>
 <p align="left">
