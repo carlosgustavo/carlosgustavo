@@ -17,6 +17,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="postgresql" width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="postgresql" width="40"  height="40" />
+ </p>
+ <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postgresql" width="40"  height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/yarn/yarn-original.svg" alt="postgresql" width="40"  height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="postgresql" width="40"  height="40" />
