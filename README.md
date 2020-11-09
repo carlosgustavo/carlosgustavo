@@ -3,7 +3,7 @@
  
 ### Skills 📝️
 ✔️ Html CSS (Sass, Styled-Components , Material UI, Bootstrap  )  <br/>
-✔️ JavaScript (React.js, Redux, Context API, Hooks) <br/>
+✔️ JavaScript (React.js, Redux, Context API) <br/>
 ✔️ Git (Git Flow, GitHub) <br/>
 ✔️ Métodos Ágeis (Scrum, Kanban) <br/>
 </p>
