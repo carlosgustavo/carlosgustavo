@@ -36,8 +36,6 @@
  <a href="https://www.instagram.com/carlosgustavo.br/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
 </p>
 
- <h5 align="left">Web Site</h5><a href="https://carlosgustavo-react-book-dev-store.netlify.app/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" height="25" width="25" /></a>
-
 
  
                                                        
