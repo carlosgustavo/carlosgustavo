@@ -35,7 +35,7 @@
   src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"alt="Carlos Gustavo" height="20" width="20" /></a>
  <a href="https://www.instagram.com/carlosgustavo.br/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Carlos Gustavo" height="20" width="20" /></a>
 </p>
-
+[**deploy**](https://linktr.ee/douglasabnovato/)
 
  
                                                        
