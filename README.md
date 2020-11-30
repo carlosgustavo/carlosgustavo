@@ -25,7 +25,7 @@
  <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="25"  height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/trello/trello-plain.svg" alt="trello" width="25"  height="25" />
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25"  height="25" />
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25"  height="25"/>
  
 </p>
 <h5 align="left">Social Networks</h5>
