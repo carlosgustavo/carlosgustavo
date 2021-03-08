@@ -1,8 +1,7 @@
 <h2 align="center">Hi there, I'm Carlos Gustavo 👨🏻‍💻 
 <h3 align="center">Front End Developer React.js🔹️Graduated in Computer Science 👨‍🎓️ </h3>
  
-### Skills 📝️
-JavaScript (React.js, Redux) <br/>
+
 </p>
 </p>
 <h5 align="left">Social Networks</h5>
